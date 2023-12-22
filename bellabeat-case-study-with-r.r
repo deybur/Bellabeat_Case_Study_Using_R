@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "6bd07217",
+   "id": "40c6bbc1",
    "metadata": {
     "papermill": {
-     "duration": 0.003254,
-     "end_time": "2023-12-22T08:55:46.913117",
+     "duration": 0.006329,
+     "end_time": "2023-12-22T09:17:40.949420",
      "exception": false,
-     "start_time": "2023-12-22T08:55:46.909863",
+     "start_time": "2023-12-22T09:17:40.943091",
      "status": "completed"
     },
     "tags": []
@@ -19,13 +19,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "a24a3b9b",
+   "id": "01fc72f0",
    "metadata": {
     "papermill": {
-     "duration": 0.002623,
-     "end_time": "2023-12-22T08:55:46.918618",
+     "duration": 0.005209,
+     "end_time": "2023-12-22T09:17:40.960057",
      "exception": false,
-     "start_time": "2023-12-22T08:55:46.915995",
+     "start_time": "2023-12-22T09:17:40.954848",
      "status": "completed"
     },
     "tags": []
@@ -38,13 +38,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "28cddb3a",
+   "id": "4fe2bf26",
    "metadata": {
     "papermill": {
-     "duration": 0.002516,
-     "end_time": "2023-12-22T08:55:46.923640",
+     "duration": 0.005135,
+     "end_time": "2023-12-22T09:17:40.970304",
      "exception": false,
-     "start_time": "2023-12-22T08:55:46.921124",
+     "start_time": "2023-12-22T09:17:40.965169",
      "status": "completed"
     },
     "tags": []
@@ -59,13 +59,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "00a51ee5",
+   "id": "0e25302d",
    "metadata": {
     "papermill": {
-     "duration": 0.002414,
-     "end_time": "2023-12-22T08:55:46.928496",
+     "duration": 0.005048,
+     "end_time": "2023-12-22T09:17:40.980375",
      "exception": false,
-     "start_time": "2023-12-22T08:55:46.926082",
+     "start_time": "2023-12-22T09:17:40.975327",
      "status": "completed"
     },
     "tags": []
@@ -78,13 +78,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "22bcae9f",
+   "id": "ec4ba430",
    "metadata": {
     "papermill": {
-     "duration": 0.002355,
-     "end_time": "2023-12-22T08:55:46.933296",
+     "duration": 0.005022,
+     "end_time": "2023-12-22T09:17:40.990622",
      "exception": false,
-     "start_time": "2023-12-22T08:55:46.930941",
+     "start_time": "2023-12-22T09:17:40.985600",
      "status": "completed"
     },
     "tags": []
@@ -97,19 +97,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "8316a848",
+   "id": "51a272b5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-12-22T08:55:46.942219Z",
-     "iopub.status.busy": "2023-12-22T08:55:46.940106Z",
-     "iopub.status.idle": "2023-12-22T08:55:48.125593Z",
-     "shell.execute_reply": "2023-12-22T08:55:48.123735Z"
+     "iopub.execute_input": "2023-12-22T09:17:41.006614Z",
+     "iopub.status.busy": "2023-12-22T09:17:41.003572Z",
+     "iopub.status.idle": "2023-12-22T09:17:42.553138Z",
+     "shell.execute_reply": "2023-12-22T09:17:42.550625Z"
     },
     "papermill": {
-     "duration": 1.192466,
-     "end_time": "2023-12-22T08:55:48.128141",
+     "duration": 1.560915,
+     "end_time": "2023-12-22T09:17:42.556679",
      "exception": false,
-     "start_time": "2023-12-22T08:55:46.935675",
+     "start_time": "2023-12-22T09:17:40.995764",
      "status": "completed"
     },
     "tags": []
@@ -142,13 +142,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "c2c16293",
+   "id": "d42c2266",
    "metadata": {
     "papermill": {
-     "duration": 0.002804,
-     "end_time": "2023-12-22T08:55:48.133864",
+     "duration": 0.005661,
+     "end_time": "2023-12-22T09:17:42.567956",
      "exception": false,
-     "start_time": "2023-12-22T08:55:48.131060",
+     "start_time": "2023-12-22T09:17:42.562295",
      "status": "completed"
     },
     "tags": []
@@ -162,19 +162,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "8c62a8e9",
+   "id": "0a390472",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-12-22T08:55:48.172241Z",
-     "iopub.status.busy": "2023-12-22T08:55:48.141270Z",
-     "iopub.status.idle": "2023-12-22T08:55:48.339687Z",
-     "shell.execute_reply": "2023-12-22T08:55:48.337803Z"
+     "iopub.execute_input": "2023-12-22T09:17:42.621835Z",
+     "iopub.status.busy": "2023-12-22T09:17:42.582022Z",
+     "iopub.status.idle": "2023-12-22T09:17:42.801799Z",
+     "shell.execute_reply": "2023-12-22T09:17:42.799419Z"
     },
     "papermill": {
-     "duration": 0.205761,
-     "end_time": "2023-12-22T08:55:48.342294",
+     "duration": 0.232155,
+     "end_time": "2023-12-22T09:17:42.805841",
      "exception": false,
-     "start_time": "2023-12-22T08:55:48.136533",
+     "start_time": "2023-12-22T09:17:42.573686",
      "status": "completed"
     },
     "tags": []
@@ -190,13 +190,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "4f4aac79",
+   "id": "e6e31ed5",
    "metadata": {
     "papermill": {
-     "duration": 0.002655,
-     "end_time": "2023-12-22T08:55:48.347784",
+     "duration": 0.005538,
+     "end_time": "2023-12-22T09:17:42.816958",
      "exception": false,
-     "start_time": "2023-12-22T08:55:48.345129",
+     "start_time": "2023-12-22T09:17:42.811420",
      "status": "completed"
     },
     "tags": []
@@ -208,19 +208,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "d0199123",
+   "id": "e771f4e2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-12-22T08:55:48.356397Z",
-     "iopub.status.busy": "2023-12-22T08:55:48.354793Z",
-     "iopub.status.idle": "2023-12-22T08:55:48.404539Z",
-     "shell.execute_reply": "2023-12-22T08:55:48.402347Z"
+     "iopub.execute_input": "2023-12-22T09:17:42.833117Z",
+     "iopub.status.busy": "2023-12-22T09:17:42.830819Z",
+     "iopub.status.idle": "2023-12-22T09:17:42.898052Z",
+     "shell.execute_reply": "2023-12-22T09:17:42.894902Z"
     },
     "papermill": {
-     "duration": 0.056763,
-     "end_time": "2023-12-22T08:55:48.407104",
+     "duration": 0.079622,
+     "end_time": "2023-12-22T09:17:42.901966",
      "exception": false,
-     "start_time": "2023-12-22T08:55:48.350341",
+     "start_time": "2023-12-22T09:17:42.822344",
      "status": "completed"
     },
     "tags": []
@@ -311,6 +311,367 @@
    "source": [
     "head(activity)"
    ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4b14fa80",
+   "metadata": {
+    "papermill": {
+     "duration": 0.005908,
+     "end_time": "2023-12-22T09:17:42.913792",
+     "exception": false,
+     "start_time": "2023-12-22T09:17:42.907884",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "The timestamp data needs to be adjusted because it has some errors. So before analysis, I need to convert it to date time format and split to date and time."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "86b502f6",
+   "metadata": {
+    "papermill": {
+     "duration": 0.006126,
+     "end_time": "2023-12-22T09:17:42.925779",
+     "exception": false,
+     "start_time": "2023-12-22T09:17:42.919653",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Getting Formatting Done"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "5b84fbdd",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-12-22T09:17:42.944498Z",
+     "iopub.status.busy": "2023-12-22T09:17:42.942299Z",
+     "iopub.status.idle": "2023-12-22T09:17:43.094131Z",
+     "shell.execute_reply": "2023-12-22T09:17:43.091782Z"
+    },
+    "papermill": {
+     "duration": 0.165866,
+     "end_time": "2023-12-22T09:17:43.097480",
+     "exception": false,
+     "start_time": "2023-12-22T09:17:42.931614",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "# activity\n",
+    "activity$ActivityDate=as.POSIXct(activity$ActivityDate, format=\"%m/%d/%Y\", tz=Sys.timezone())\n",
+    "activity$date <- format(activity$ActivityDate, format = \"%m/%d/%y\")\n",
+    "\n",
+    "# calories\n",
+    "calories$ActivityHour=as.POSIXct(calories$ActivityHour, format=\"%m/%d/%Y %I:%M:%S %p\", tz=Sys.timezone())\n",
+    "calories$time <- format(calories$ActivityHour, format = \"%H:%M:%S\")\n",
+    "calories$date <- format(calories$ActivityHour, format = \"%m/%d/%y\")\n",
+    "\n",
+    "# intensities\n",
+    "intensities$ActivityHour=as.POSIXct(intensities$ActivityHour, format=\"%m/%d/%Y %I:%M:%S %p\", tz=Sys.timezone())\n",
+    "intensities$time <- format(intensities$ActivityHour, format = \"%H:%M:%S\")\n",
+    "intensities$date <- format(intensities$ActivityHour, format = \"%m/%d/%y\")\n",
+    "\n",
+    "# sleep\n",
+    "sleep$SleepDay=as.POSIXct(sleep$SleepDay, format=\"%m/%d/%Y %I:%M:%S %p\", tz=Sys.timezone())\n",
+    "sleep$date <- format(sleep$SleepDay, format = \"%m/%d/%y\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "945125df",
+   "metadata": {
+    "papermill": {
+     "duration": 0.006306,
+     "end_time": "2023-12-22T09:17:43.109775",
+     "exception": false,
+     "start_time": "2023-12-22T09:17:43.103469",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Exploring and summarising data"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "0b5f5829",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-12-22T09:17:43.126450Z",
+     "iopub.status.busy": "2023-12-22T09:17:43.124191Z",
+     "iopub.status.idle": "2023-12-22T09:17:43.184576Z",
+     "shell.execute_reply": "2023-12-22T09:17:43.182255Z"
+    },
+    "papermill": {
+     "duration": 0.071979,
+     "end_time": "2023-12-22T09:17:43.187657",
+     "exception": false,
+     "start_time": "2023-12-22T09:17:43.115678",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "33"
+      ],
+      "text/latex": [
+       "33"
+      ],
+      "text/markdown": [
+       "33"
+      ],
+      "text/plain": [
+       "[1] 33"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "33"
+      ],
+      "text/latex": [
+       "33"
+      ],
+      "text/markdown": [
+       "33"
+      ],
+      "text/plain": [
+       "[1] 33"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "33"
+      ],
+      "text/latex": [
+       "33"
+      ],
+      "text/markdown": [
+       "33"
+      ],
+      "text/plain": [
+       "[1] 33"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "24"
+      ],
+      "text/latex": [
+       "24"
+      ],
+      "text/markdown": [
+       "24"
+      ],
+      "text/plain": [
+       "[1] 24"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/html": [
+       "8"
+      ],
+      "text/latex": [
+       "8"
+      ],
+      "text/markdown": [
+       "8"
+      ],
+      "text/plain": [
+       "[1] 8"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "n_distinct(activity$Id)\n",
+    "\n",
+    "n_distinct(calories$Id)\n",
+    "\n",
+    "n_distinct(intensities$Id)\n",
+    "\n",
+    "n_distinct(sleep$Id)\n",
+    "\n",
+    "n_distinct(weight$Id)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "fab22fb8",
+   "metadata": {
+    "papermill": {
+     "duration": 0.007309,
+     "end_time": "2023-12-22T09:17:43.202088",
+     "exception": false,
+     "start_time": "2023-12-22T09:17:43.194779",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "The activity, calories, and intensities datasets have 33 participants, the sleep dataset has 24 participants, and the weight dataset has only 8 participants. The limited number of participants in the weighted dataset (8) is insufficient to draw meaningful recommendations or conclusions based on this data.\n",
+    "\n",
+    "I will examine the summary statistics of the datasets below:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "980f5a85",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-12-22T09:17:43.221225Z",
+     "iopub.status.busy": "2023-12-22T09:17:43.219086Z",
+     "iopub.status.idle": "2023-12-22T09:17:43.384566Z",
+     "shell.execute_reply": "2023-12-22T09:17:43.382182Z"
+    },
+    "papermill": {
+     "duration": 0.178498,
+     "end_time": "2023-12-22T09:17:43.387744",
+     "exception": false,
+     "start_time": "2023-12-22T09:17:43.209246",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "   TotalSteps    TotalDistance    SedentaryMinutes    Calories   \n",
+       " Min.   :    0   Min.   : 0.000   Min.   :   0.0   Min.   :   0  \n",
+       " 1st Qu.: 3790   1st Qu.: 2.620   1st Qu.: 729.8   1st Qu.:1828  \n",
+       " Median : 7406   Median : 5.245   Median :1057.5   Median :2134  \n",
+       " Mean   : 7638   Mean   : 5.490   Mean   : 991.2   Mean   :2304  \n",
+       " 3rd Qu.:10727   3rd Qu.: 7.713   3rd Qu.:1229.5   3rd Qu.:2793  \n",
+       " Max.   :36019   Max.   :28.030   Max.   :1440.0   Max.   :4900  "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       " VeryActiveMinutes FairlyActiveMinutes LightlyActiveMinutes\n",
+       " Min.   :  0.00    Min.   :  0.00      Min.   :  0.0       \n",
+       " 1st Qu.:  0.00    1st Qu.:  0.00      1st Qu.:127.0       \n",
+       " Median :  4.00    Median :  6.00      Median :199.0       \n",
+       " Mean   : 21.16    Mean   : 13.56      Mean   :192.8       \n",
+       " 3rd Qu.: 32.00    3rd Qu.: 19.00      3rd Qu.:264.0       \n",
+       " Max.   :210.00    Max.   :143.00      Max.   :518.0       "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       "    Calories     \n",
+       " Min.   : 42.00  \n",
+       " 1st Qu.: 63.00  \n",
+       " Median : 83.00  \n",
+       " Mean   : 97.39  \n",
+       " 3rd Qu.:108.00  \n",
+       " Max.   :948.00  "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       " TotalSleepRecords TotalMinutesAsleep TotalTimeInBed \n",
+       " Min.   :1.000     Min.   : 58.0      Min.   : 61.0  \n",
+       " 1st Qu.:1.000     1st Qu.:361.0      1st Qu.:403.0  \n",
+       " Median :1.000     Median :433.0      Median :463.0  \n",
+       " Mean   :1.119     Mean   :419.5      Mean   :458.6  \n",
+       " 3rd Qu.:1.000     3rd Qu.:490.0      3rd Qu.:526.0  \n",
+       " Max.   :3.000     Max.   :796.0      Max.   :961.0  "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       "    WeightKg           BMI       \n",
+       " Min.   : 52.60   Min.   :21.45  \n",
+       " 1st Qu.: 61.40   1st Qu.:23.96  \n",
+       " Median : 62.50   Median :24.39  \n",
+       " Mean   : 72.04   Mean   :25.19  \n",
+       " 3rd Qu.: 85.05   3rd Qu.:25.56  \n",
+       " Max.   :133.50   Max.   :47.54  "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "# activity\n",
+    "activity %>%  \n",
+    "  select(TotalSteps,\n",
+    "         TotalDistance,\n",
+    "         SedentaryMinutes, Calories) %>%\n",
+    "  summary()\n",
+    "\n",
+    "# explore num of active minutes per category\n",
+    "activity %>%\n",
+    "  select(VeryActiveMinutes, FairlyActiveMinutes, LightlyActiveMinutes) %>%\n",
+    "  summary()\n",
+    "\n",
+    "# calories\n",
+    "calories %>%\n",
+    "  select(Calories) %>%\n",
+    "  summary()\n",
+    "\n",
+    "# sleep\n",
+    "sleep %>%\n",
+    "  select(TotalSleepRecords, TotalMinutesAsleep, TotalTimeInBed) %>%\n",
+    "  summary()\n",
+    "\n",
+    "# weight\n",
+    "weight %>%\n",
+    "  select(WeightKg, BMI) %>%\n",
+    "  summary()"
+   ]
   }
  ],
  "metadata": {
@@ -344,14 +705,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 5.149928,
-   "end_time": "2023-12-22T08:55:48.532194",
+   "duration": 6.799751,
+   "end_time": "2023-12-22T09:17:43.522079",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2023-12-22T08:55:43.382266",
+   "start_time": "2023-12-22T09:17:36.722328",
    "version": "2.5.0"
   }
  },
